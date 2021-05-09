@@ -1,5 +1,5 @@
--Hi, I’m XCDH
+-Hi, I’m XCDH.
 
--这是我的GITHUB帐号
+-这是我的GITHUB帐号。
 
--This is my github account
+-This is my github account.
